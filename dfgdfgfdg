@@ -1,2 +1,2 @@
 print("✅ - Pass, ⛔ - Fail, ⏺️ - Unknown")
-warn("gay")
+warn("⛔ gay")
